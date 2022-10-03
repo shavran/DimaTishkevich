@@ -1,0 +1,23 @@
+div{
+   font-size: 20px; 
+}
+span{
+    color: #12ffff;
+}
+[custom_data=""]
+{
+     color: aqua;
+}
+.text{
+    color: chocolate;
+}
+
+span.text{
+    color:crimson
+}
+#baba{
+    color: darkgoldenrod;
+}
+.block>p{
+    font-size: 10px;
+}
