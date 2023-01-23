@@ -16,6 +16,7 @@ nav{
 
 .menu{
     float: left;
+    width: 200%;
 }
 
 .menu li{
